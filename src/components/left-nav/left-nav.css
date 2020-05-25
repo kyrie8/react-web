@@ -1,0 +1,14 @@
+.left-header {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left-header h1 {
+  color: white;
+  font-size: 20px;
+}
+.left-menu{
+  
+  font-size: 18px;
+}

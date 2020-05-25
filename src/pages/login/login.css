@@ -1,0 +1,34 @@
+.login{
+  height: 100%;
+  width: 100%;
+
+  background-color: slategrey;
+}
+
+.login-header{
+  height:80px;
+  background-color: lightskyblue;
+}
+
+.login-header h1{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  line-height: 80px;
+}
+.login-content{
+  width: 400px;
+  height: 300px;
+  margin: 60px auto;
+  padding: 20px 40px;
+  background-color: white;
+}
+.login-content h2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.login-form-button{
+  width: 100%;
+}
